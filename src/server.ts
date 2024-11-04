@@ -1,5 +1,4 @@
-function welcome(name: string){
-    
-    console.log('welcome to fullstack');
+function welcome(name: string) {
+    console.log('welcome to fullstack')
 }
-welcome("Ravi Ranjan")
+welcome('Ravi Ranjan')
